@@ -8,5 +8,5 @@ This repository provides implementational details as well as simulations and ana
 
 ## File description
 
-- `model_online_action.pynb`: meta-planner implementation and simulations
-- `model_fits.pynb`: preprocessing and analysis for the 4-in-a-row model fits
+- `model_online_action.ipynb`: meta-planner implementation and simulations
+- `model_fits.ipynb`: preprocessing and analysis for the 4-in-a-row model fits
